@@ -1,0 +1,4 @@
+test test for test file 6
+second line
+third line
+last line
